@@ -3,7 +3,6 @@
 ## Features
 
 - REST API for retrieving items from the Projection file
-- 
 
 ## Technologies
 
